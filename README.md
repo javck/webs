@@ -455,8 +455,8 @@ Voyager早就為你想到了
 
 ## 參考網址
 
-[Laravel5.8 從入門到實戰](https://hahow.in/cr/goblinlab-laravel58)
-[Moderna前台套版](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/download/)
-[課程筆記](https://hackmd.io/@goblinlab/SkDdTe4kO)
-[EzLaravel套件介紹影片](https://youtu.be/J5SjwZ2aY6c)
-[Voyager套件簡介影片](https://youtu.be/ZW4RLDDUuFQ)
+* [Laravel5.8 從入門到實戰](https://hahow.in/cr/goblinlab-laravel58)
+* [Moderna前台套版](https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/download/)
+* [課程筆記](https://hackmd.io/@goblinlab/SkDdTe4kO)
+* [EzLaravel套件介紹影片](https://youtu.be/J5SjwZ2aY6c)
+* [Voyager套件簡介影片](https://youtu.be/ZW4RLDDUuFQ)
